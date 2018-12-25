@@ -1,0 +1,36 @@
+PODS:
+  - Kingfisher (5.0.1)
+  - MarqueeLabel/Swift (3.2.0)
+  - NotificationBannerSwift (1.8.0):
+    - MarqueeLabel/Swift (~> 3.2.0)
+    - SnapKit (~> 4.0.1)
+  - ReachabilitySwift (4.3.0)
+  - SnapKit (4.0.1)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - NotificationBannerSwift
+  - ReachabilitySwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Kingfisher
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - ReachabilitySwift
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+  MarqueeLabel: 440a502b91a9179bd98f9fff00ba1150650a1c0e
+  NotificationBannerSwift: 49fc4be7fabada55b189b50e72184c92edd5f7f7
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 954923417716d45150490016e5784931d92cceab
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module Pods_cardsTests {
+  umbrella header "Pods-cardsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
